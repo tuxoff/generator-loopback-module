@@ -1,0 +1,25 @@
+{
+  "name": "generator-loopback-module",
+  "version": "1.0.0",
+  "description": "Module generation for loopback framework",
+  "main": "app/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dmtux/generator-loopback-module.git"
+  },
+  "keywords": [
+    "loopback",
+    "generator",
+    "yeoman",
+    "module"
+  ],
+  "author": "Denis Melskiy <dmelskiy@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dmtux/generator-loopback-module/issues"
+  },
+  "homepage": "https://github.com/dmtux/generator-loopback-module#readme"
+}
