@@ -10,6 +10,10 @@
     "type": "git",
     "url": "git+https://github.com/dmtux/generator-loopback-module.git"
   },
+  "dependencies": {
+    "yeoman-generator": "^0.24.0",
+    "chalk": "^1.1.0"
+  },
   "keywords": [
     "loopback",
     "generator",
