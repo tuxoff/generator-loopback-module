@@ -38,5 +38,6 @@ module.exports = generators.Base.extend({
   end: function () {
     this.log(chalk.red(`To finish your module generation please create/edit ${applicationPart}/${moduleName}.js:`));
     this.log(chalk.cyan(`module.exports = (${moduleName}) => { ${os.EOL}  require('./${moduleName}/')(${moduleName}); ${os.EOL}}; `));
+    this.log(chalk.red(`And please add model to your model-config.json`));
   },
 });
