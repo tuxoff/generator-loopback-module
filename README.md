@@ -8,6 +8,9 @@ Module generation for loopback framework
         |-- methoods.js
 ```
 
+Main idea of generator - separation module code into files divided by functionality to avoid 
+long files and cleaner code climate. 
+
 ## Install
 
 ``` 
